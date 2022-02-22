@@ -16,5 +16,5 @@ Aprendi algumas coisas em HTML e CSS neste projeto, estou feliz em listá-las:
 * Seletor por Tag --> nome da tag (body, main, header e etc)
 * Seletor por classe --> nome da classe (.menu / .icone_menu e etc)
 * Seletor por ID --> nome do ID (#titulo), somente um item pode conter um ID, pois ele é único.
-* Seletor por ID --> nome do ID (#titulo), somente um item pode conter um ID, pois ele é único.
+
 
